@@ -1,32 +1,47 @@
 {
-    "heros": [
-      {
-        "id": 1,
-        "first_name": "John",
-        "last_name": "Doe",
-        "power":["coding", "css","django"],
-        "rate":5
-      },
-      {
-        "id": 2,
-        "first_name": "Jane",
-        "last_name": "Doe",
-        "power":["coding", "html"],
-        "rate":2
-      },
-      {
-        "id": 3,
-        "first_name": "Alice",
-        "last_name": "Doe",
-        "power":["coding", "html","django"],
-        "rate":4
-      },
-      {
-        "id": 4,
-        "first_name": "Bob",
-        "last_name": "Doe",
-        "power":["coding", "html","django"],
-        "rate":1
-      }
-    ]
-  }
+  "heros": [
+    {
+      "id": 1,
+      "first_name": "sarah",
+      "last_name": "alshlowi",
+      "power": [
+        "coding",
+        "css",
+        "django"
+      ],
+      "rate": 5
+    },
+    {
+      "rate": 2,
+      "first_name": "mohammed",
+      "last_name": "ahmed",
+      "power": [
+        "coding",
+        "html"
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Alice",
+      "last_name": "Doe",
+      "power": [
+        "coding",
+        "html",
+        "django"
+      ],
+      "rate": 4
+    },
+    {
+      "id": 4,
+      "first_name": "Bob",
+      "last_name": "Doe",
+      "power": [
+        "coding",
+        "html",
+        "django"
+      ],
+      "rate": 1
+    }
+  ]
+}
